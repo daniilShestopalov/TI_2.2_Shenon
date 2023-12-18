@@ -1,0 +1,8 @@
+// The Binary Tree
+digraph {
+	0.46
+	0.27
+	0.46 -> 0.27 [label=0]
+	Z1
+	0.27 -> Z1 [label=0]
+}
